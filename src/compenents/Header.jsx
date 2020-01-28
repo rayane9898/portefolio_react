@@ -20,10 +20,9 @@ const Header = () =>{
                         <a className="btn btn-warning rounded-pill btn-xl text-uppercase" href="">find out more</a>
                         </div> */}
                         <div className="text-center mt-5">
-                        <img className="logo" src={logo} alt=""/>
+                        <img className="logo mb-4 text-center mw-50 col-lg-6" src={logo} alt=""/>
                     </div>
                     </div>
-
 
                 </div>
 

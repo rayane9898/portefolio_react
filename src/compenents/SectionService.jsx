@@ -12,8 +12,8 @@ const SectionService =()=>{
                     <div class="card border-white">
                     <div class="card-body text-center">
                         <p class="card-title text-center"><i class="fas fa-code fa-5x"></i></p>
-                        <p class="card-text text-center">With supporting text below as a natural lead-in to additional content.</p>
-                        <a class='text-center' href="#" class="bouton btn btn-primary bg-warning text-dark border-dark ">Web Developement</a>
+                        {/* <p class="card-text text-center">With supporting text below as a natural lead-in to additional content.</p> */}
+                        <a class='text-center' href="#" class="text-dark border-dark mt-4 ">Web Developement</a>
                     </div>
                     </div>
                 </div>
@@ -21,8 +21,8 @@ const SectionService =()=>{
                     <div class="card border-white">
                     <div class="card-body text-center">
                         <p class="card-title text-center"><i class="fas fa-pencil-alt fa-5x"></i></p>
-                        <p class="card-text text-center">With supporting text below as a natural lead-in to additional content.</p>
-                        <a class='text-center' href="#" class="bouton btn btn-primary bg-warning text-dark border-dark text-center">Web Designer</a>
+                        {/* <p class="card-text text-center">With supporting text below as a natural lead-in to additional content.</p> */}
+                        <a class='text-center' href="#" class="text-dark border-dark text-center mt-4">Web Designer</a>
                     </div>
                     </div>
                 </div>
@@ -30,8 +30,8 @@ const SectionService =()=>{
                     <div class="card border-white">
                     <div class="card-body text-center">
                         <p class="card-title text-center"><i class="fas fa-tools fa-5x"></i></p>
-                        <p class="card-text text-center">With supporting text below as a natural lead-in to additional content.</p>
-                        <a class='text-center' href="#" class="bouton btn btn-primary bg-warning text-dark border-dark text-center">Hardware Repair</a>
+                        {/* <p class="card-text text-center">With supporting text below as a natural lead-in to additional content.</p> */}
+                        <a class='text-center' href="#" class="text-dark border-dark text-center mt-4">Hardware Repair</a>
                     </div>
                     </div>
                 </div>
@@ -39,8 +39,8 @@ const SectionService =()=>{
                     <div class="card border-white">
                     <div class="card-body text-center">
                         <p class="card-title text-center"><i class="fas fa-mobile-alt fa-5x"></i></p>
-                        <p class="card-text text-center">With supporting text below as a natural lead-in to additional content.</p>
-                        <a class='' href="#" class="bouton btn btn-primary bg-warning text-dark border-dark text-center">Mobile Developement</a>
+                        {/* <p class="card-text text-center">With supporting text below as a natural lead-in to additional content.</p> */}
+                        <a class='' href="#" class="text-dark border-dark text-center mt-4">Mobile Developement</a>
                     </div>
                     </div>
                 </div>

@@ -31,7 +31,7 @@ const NavBar = () =>{
                 <a href=""><i class="fab fa-linkedin mx-3 fa-lg"></i></a>
                 <a href=""><i class="fas fa-envelope mx-3 fa-lg"></i></a>
                     
-                
+            
                 </span>
             </div>
 </nav>
