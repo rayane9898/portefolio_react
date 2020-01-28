@@ -2,7 +2,7 @@ import React from "react"
 
 const About =()=>{
     return(
-        <section className="sectionAbout">
+        <section className="sectionAbout  bg-light">
             <div className='container'>
                 <div className='row justify-content-center'>
                     <div className='col-lg-8'>
