@@ -4,7 +4,7 @@ import logo from "../img/logoRayane1.png";
 const NavBar = () =>{
   
     return(
-            <div className=" bg-white sticky-top">
+            <div className=" bg-white sticky-top border-bottom border-warning">
             <div className="container p-2">
             <nav class="navbar navbar-expand-lg navbar-light">
             <img className="logos" src={logo} alt=""/>
@@ -34,11 +34,9 @@ const NavBar = () =>{
             
                 </span>
             </div>
-</nav>
-                  
+</nav>                  
             </div>
             </div>
-
     )
 }
 

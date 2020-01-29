@@ -3,6 +3,8 @@ import NavBar from "./compenents/NavBar"
 import Header from "./compenents/Header"
 import About from "./compenents/About"
 import SectionService from"./compenents/SectionService"
+import Galerie from "./compenents/Galerie"
+
 
 const App = () => {
     return(
@@ -11,6 +13,8 @@ const App = () => {
             <Header></Header>
             <About></About>
             <SectionService></SectionService>
+            <Galerie></Galerie>
+
      
         </Fragment>
     )
