@@ -4,6 +4,7 @@ import Header from "./compenents/Header"
 import About from "./compenents/About"
 import SectionService from"./compenents/SectionService"
 import Galerie from "./compenents/Galerie"
+import ProgresBar from "./compenents/ProgresBar"
 
 
 const App = () => {
@@ -14,6 +15,7 @@ const App = () => {
             <About></About>
             <SectionService></SectionService>
             <Galerie></Galerie>
+            <ProgresBar />
 
      
         </Fragment>
