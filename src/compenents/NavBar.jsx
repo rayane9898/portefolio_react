@@ -17,7 +17,7 @@ const NavBar = () =>{
                     <a class="nav-link ml-3" href="#">Acceuil <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">Service</a>
+                    <a class="nav-link" >Service</a>
                 </li>
                 <li class="nav-item active">
                     <a class="nav-link" href="#">Portfolio</a>
